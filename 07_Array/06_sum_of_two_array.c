@@ -19,5 +19,6 @@ int main()
     {
         printf("%d ", arr1[i]+ arr2[i]);
     }
-    return 0;   
+    return 0;  
+     
 }

@@ -29,4 +29,6 @@ int main()
     printf("Negative numbers: %d\n", neg);
     printf("Zeros: %d\n", zero);
     return 0;
+
+    
 }
