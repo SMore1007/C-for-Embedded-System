@@ -36,9 +36,7 @@ int main()
         if (strcmp(s[i].name, student) == 0)
         {
             printf("Student %d, Name: %s, Roll Number %d\n",i+1, s[i].name, s[i].rollNum);
-        }
-        
-       
+        }       
     }
     return 0;
 }
